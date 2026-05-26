@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm **Hasanain 👋**
 
-<!--
-**Hasanain-Jaafar/Hasanain-Jaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_Self-taught_** dev from <ins>Stockholm </ins>. No bootcamp, no CS degree — just a lot of curiosity,
+broken code, and projects I actually cared about finishing.
 
-Here are some ideas to get you started:
+### Stack: 
+> **_React_** - **_Next.js_** - **_Node.js_** - **_Prisma_** - **_MongoDB_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently obsessed with: AI integrations, n8n automation, and building things that
+solve real problems instead of just looking good in a portfolio.
+
+Multilingual (Swedish 🇸🇪 · English 🇬🇧 · Arabic 🇮🇶) — which means I think
+carefully about how products feel for different people.
+
+Open to new opportunities. If something I've built catches your eye, say hi 🙋‍♂️.
